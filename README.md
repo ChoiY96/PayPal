@@ -4,7 +4,7 @@
 
 在当今跨境支付需求日益增长的背景下，PayPal 已经成为全球最主流的国际支付工具之一。无论是订阅 ChatGPT、购买海外流媒体会员，还是进行电商购物与广告投放，PayPal 都是必不可少的支付中介。而对于缺乏海外银行卡的用户而言，**虚拟信用卡**提供了灵活、安全、便捷的替代方案，可以帮助用户快速完成绑定与支付。
 
-如果你正在寻找一个可靠的虚拟信用卡服务商，推荐选择 **[EasyPay](https://easy-pay.site/home)**。该平台支持发行美国、香港等主流地区的 Visa / MasterCard 虚拟卡，并且实测绑定 PayPal 成功率高，同时支持 **USDT（TRC20）快速充值**，适合跨境电商、广告投放以及各类数字服务订阅。若在操作过程中遇到任何问题，还可以直接通过 **[Telegram 客服](https://t.me/easypay_u)** 获取一对一指导。
+如果你正在寻找一个可靠的虚拟信用卡服务商，推荐选择 **[EasyPay](https://easy-pay.site/home?ref=RVBFc3VUQ3dOSEAxMQ==)**。该平台支持发行美国、香港等主流地区的 Visa / MasterCard 虚拟卡，并且实测绑定 PayPal 成功率高，同时支持 **USDT（TRC20）快速充值**，适合跨境电商、广告投放以及各类数字服务订阅。若在操作过程中遇到任何问题，还可以直接通过 **[Telegram 客服](https://t.me/easypay_u)** 获取一对一指导。
 ![fb09](https://github.com/ChoiY96/PayPal/raw/main/fb09.png)
 ---
 
